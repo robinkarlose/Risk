@@ -1,0 +1,46 @@
+
+It's Player_0's turn: 
+
+[Reinforcement]
+Reinforced Node: ledgeleft,Number of armies:4
+
+Reinforced Node: ledgeleft,Number of armies:3
+
+Reinforced Node: ledgeleft,Number of armies:2
+
+Reinforced Node: ledgeleft,Number of armies:1
+
+[Attack]
+Player_0: Attacking Country: thirdleft, Defending Country: secondleft
+secondleft got defeated
+
+Player_0: thirdleft moved 2 armies to secondleft
+
+Player_0: Attacking Country: topleftc, Defending Country: topleft
+topleft got defeated
+
+Player_0: topleftc moved 2 armies to topleft
+
+Player_0: Attacking Country: ledgeleft, Defending Country: ledgecentre
+ledgecentre got defeated
+
+Player_0: ledgeleft moved 2 armies to ledgecentre
+
+Player_0: Attacking Country: firstright, Defending Country: secondright
+Player_0: Attacking Country: bottomleft, Defending Country: bottomleftc
+bottomleftc got defeated
+
+Player_0: bottomleft moved 2 armies to bottomleftc
+
+Player_0: Attacking Country: toprightc, Defending Country: topright
+Player_0: Attacking Country: topleft, Defending Country: fourthleft
+[Fortification]
+Player_0 moved 1 army/armies from secondleft to thirdleft
+Player_0 moved 6 army/armies from ledgeleft to thirdleft
+Player_0 moved 2 army/armies from firstleft to thirdleft
+Player_0 moved 1 army/armies from ledgecentre to thirdleft
+Player_0 moved 1 army/armies from bottomleft to thirdleft
+Player_0 moved 1 army/armies from bottomleftc to thirdleft
+Player_0 moved 2 army/armies from ledgefront to thirdleft
+Player_0 moved 1 army/armies from bottomright to thirdleft
+It's Player_1's turn: 
